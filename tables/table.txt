@@ -1,0 +1,7 @@
+
+PIGEON HOLE PRINCIPLE
+
+n mailboxes
+m letters
+m > n (more letters than mailboxes)
+there will be at least one mailbox with at least two letters in it
